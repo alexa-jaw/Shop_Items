@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df4525b5-3091-4f85-8da5-0feede075ed2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p4NT6YqQWyi2Sc8SoZUsWEKSDf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df4525b5-3091-4f85-8da5-0feede075ed2" name="Default Changelist" comment="" />
+      <created>1614438406284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614438406284</updated>
+      <workItem from="1614438407303" duration="1314000" />
+      <workItem from="1614453103613" duration="3338000" />
+      <workItem from="1614462862383" duration="3505000" />
+      <workItem from="1614693181644" duration="6156000" />
+      <workItem from="1614712099268" duration="48000" />
+      <workItem from="1614758137320" duration="27000" />
+      <workItem from="1614758273675" duration="6866000" />
+      <workItem from="1614785944641" duration="6778000" />
+      <workItem from="1615053309629" duration="1137000" />
+      <workItem from="1615242807228" duration="159000" />
+      <workItem from="1616245397999" duration="1692000" />
+      <workItem from="1617718928603" duration="32000" />
+      <workItem from="1633081219253" duration="6257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="338" key="Github.ShareDialog" timestamp="1633089466803">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="547" y="338" key="Github.ShareDialog/0.25.1440.824@0.25.1440.824" timestamp="1633089466803" />
+    <state x="589" y="146" key="Github.UntrackedFilesDialog" timestamp="1633089486095">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="589" y="146" key="Github.UntrackedFilesDialog/0.25.1440.824@0.25.1440.824" timestamp="1633089486095" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../Shop_Items/index.js</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
